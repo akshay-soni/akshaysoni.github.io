@@ -8,6 +8,7 @@ Senior Engineering Manager - Developer Productivity & Release Engineering (Zende
 
 - LinkedIn: [https://www.linkedin.com/in/akssoni](https://www.linkedin.com/in/akssoni)
 - GitHub: [https://github.com/akshay-soni](https://github.com/akshay-soni)
+- X: [https://x.com/akshaysoni101](https://x.com/akshaysoni101)
 - Email: akshay.tech@hotmail.com
 
 > Building resilient feature-flag + release systems at scale.
