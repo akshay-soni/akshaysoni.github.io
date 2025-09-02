@@ -1,6 +1,24 @@
 ---
 title: Akshay Soni
 layout: default
+head_extra: |
+  {% raw %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Akshay Soni",
+    "jobTitle": "Senior Engineering Manager",
+    "affiliation": { "@type": "Organization", "name": "Zendesk" },
+    "url": "https://akshaysoni.net",
+    "sameAs": [
+      "https://www.linkedin.com/in/akssoni",
+      "https://github.com/akshay-soni",
+      "https://x.com/akshaysoni101"
+    ]
+  }
+  </script>
+  {% endraw %}
 ---
 
 # Akshay Soni
