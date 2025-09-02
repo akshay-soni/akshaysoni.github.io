@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Akshay Soni
-Senior Engineering Manager — Developer Productivity & Release Engineering (Zendesk)
+Senior Engineering Manager - Developer Productivity & Release Engineering (Zendesk)
 
 - LinkedIn: https://www.linkedin.com/in/akssoni
 - GitHub: https://github.com/akshay-soni
