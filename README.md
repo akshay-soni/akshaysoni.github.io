@@ -1,2 +1,0 @@
-# akshaysoni.github.io
-Homepage
