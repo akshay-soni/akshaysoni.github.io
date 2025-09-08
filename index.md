@@ -29,4 +29,4 @@ Senior Engineering Manager - Developer Productivity & Release Engineering (Zende
 - X: [https://x.com/akshaysoni101](https://x.com/akshaysoni101)
 - Email: akshay.tech@hotmail.com
 
-> Building resilient feature-flag + release systems at scale.
+> Building resilient feature-flag + CICD/deploy platfrom systems at scale.
